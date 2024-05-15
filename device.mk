@@ -27,7 +27,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    GCamMGC
+    Aperture
 
 # FM
 PRODUCT_PACKAGES += \
