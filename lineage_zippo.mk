@@ -19,3 +19,7 @@ PRODUCT_MODEL := Lenovo L78051
 PRODUCT_NAME := lineage_zippo
 
 PRODUCT_GMS_CLIENTID_BASE := android-lenovo
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    DeviceName=zippo \
+    DeviceProduct=zippo
